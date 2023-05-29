@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @veefa
 - 👀 I’m interested in Front-End devlopment 
-- 🌱 I’m currently learning React and Node.js
+- 🌱 I’m currently learning Tailwind
 - 📫 How to reach me https://twitter.com/VeefaHamdawy
 
 <!---
