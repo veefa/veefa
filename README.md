@@ -1,5 +1,5 @@
 - Hey there, I'm @veefa! 👋
--👀 I'm hooked on Front-End development and UX design.
+- 👀 I'm hooked on Front-End development and UX design.
 - 🌱 Currently diving into Tailwind and Typescript...
 
 <!---
