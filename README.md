@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @veefa
-- 👀 I’m interested in Front-End devlopment 
-- 🌱 I’m currently learning Tailwind, Typescript...
+- Hey there, I'm @veefa! 👋
+-👀 I'm hooked on Front-End development and UX design.
+- 🌱 Currently diving into Tailwind and Typescript...
 
 <!---
 veefa/veefa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
